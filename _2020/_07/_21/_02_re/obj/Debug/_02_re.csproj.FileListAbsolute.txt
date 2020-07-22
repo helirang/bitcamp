@@ -1,0 +1,9 @@
+D:\Bit\HomeWork\2020_07_21(me)\_star\_02_re\bin\Debug\_02_re.exe.config
+D:\Bit\HomeWork\2020_07_21(me)\_star\_02_re\bin\Debug\_02_re.exe
+D:\Bit\HomeWork\2020_07_21(me)\_star\_02_re\bin\Debug\_02_re.pdb
+D:\Bit\HomeWork\2020_07_21(me)\_star\_02_re\obj\Debug\_02_re.csprojAssemblyReference.cache
+D:\Bit\HomeWork\2020_07_21(me)\_star\_02_re\obj\Debug\_02_re.Properties.Resources.resources
+D:\Bit\HomeWork\2020_07_21(me)\_star\_02_re\obj\Debug\_02_re.csproj.GenerateResource.cache
+D:\Bit\HomeWork\2020_07_21(me)\_star\_02_re\obj\Debug\_02_re.csproj.CoreCompileInputs.cache
+D:\Bit\HomeWork\2020_07_21(me)\_star\_02_re\obj\Debug\_02_re.exe
+D:\Bit\HomeWork\2020_07_21(me)\_star\_02_re\obj\Debug\_02_re.pdb
