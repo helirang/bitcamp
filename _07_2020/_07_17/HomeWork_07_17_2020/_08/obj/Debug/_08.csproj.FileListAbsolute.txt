@@ -1,0 +1,9 @@
+D:\2020_07_16_homework\_2020_07_17\_2020_07_17_Forms\_13_TextureBrush\bin\Debug\_13_TextureBrush.exe.config
+D:\2020_07_16_homework\_2020_07_17\_2020_07_17_Forms\_13_TextureBrush\bin\Debug\_13_TextureBrush.exe
+D:\2020_07_16_homework\_2020_07_17\_2020_07_17_Forms\_13_TextureBrush\bin\Debug\_13_TextureBrush.pdb
+D:\2020_07_16_homework\_2020_07_17\_2020_07_17_Forms\_13_TextureBrush\obj\Debug\_08.csprojAssemblyReference.cache
+D:\2020_07_16_homework\_2020_07_17\_2020_07_17_Forms\_13_TextureBrush\obj\Debug\_13_TextureBrush.Properties.Resources.resources
+D:\2020_07_16_homework\_2020_07_17\_2020_07_17_Forms\_13_TextureBrush\obj\Debug\_08.csproj.GenerateResource.cache
+D:\2020_07_16_homework\_2020_07_17\_2020_07_17_Forms\_13_TextureBrush\obj\Debug\_08.csproj.CoreCompileInputs.cache
+D:\2020_07_16_homework\_2020_07_17\_2020_07_17_Forms\_13_TextureBrush\obj\Debug\_13_TextureBrush.exe
+D:\2020_07_16_homework\_2020_07_17\_2020_07_17_Forms\_13_TextureBrush\obj\Debug\_13_TextureBrush.pdb

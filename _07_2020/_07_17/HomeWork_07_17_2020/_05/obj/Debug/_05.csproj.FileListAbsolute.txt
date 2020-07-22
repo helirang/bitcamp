@@ -1,0 +1,10 @@
+D:\study\_07_17_homework\_07_17_2020\_05\bin\Debug\_05.exe.config
+D:\study\_07_17_homework\_07_17_2020\_05\bin\Debug\_05.exe
+D:\study\_07_17_homework\_07_17_2020\_05\bin\Debug\_05.pdb
+D:\study\_07_17_homework\_07_17_2020\_05\obj\Debug\_05.csprojAssemblyReference.cache
+D:\study\_07_17_homework\_07_17_2020\_05\obj\Debug\_05.Properties.Resources.resources
+D:\study\_07_17_homework\_07_17_2020\_05\obj\Debug\_05.csproj.GenerateResource.cache
+D:\study\_07_17_homework\_07_17_2020\_05\obj\Debug\_05.csproj.CoreCompileInputs.cache
+D:\study\_07_17_homework\_07_17_2020\_05\obj\Debug\_05.exe
+D:\study\_07_17_homework\_07_17_2020\_05\obj\Debug\_05.pdb
+D:\study\_07_17_homework\_07_17_2020\_05\obj\Debug\_05.Form1.resources

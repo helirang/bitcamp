@@ -1,0 +1,8 @@
+D:\study\_07_17_homework\_07_17_2020\_07\bin\Debug\_07.exe.config
+D:\study\_07_17_homework\_07_17_2020\_07\bin\Debug\_07.exe
+D:\study\_07_17_homework\_07_17_2020\_07\bin\Debug\_07.pdb
+D:\study\_07_17_homework\_07_17_2020\_07\obj\Debug\_07.Properties.Resources.resources
+D:\study\_07_17_homework\_07_17_2020\_07\obj\Debug\_07.csproj.GenerateResource.cache
+D:\study\_07_17_homework\_07_17_2020\_07\obj\Debug\_07.csproj.CoreCompileInputs.cache
+D:\study\_07_17_homework\_07_17_2020\_07\obj\Debug\_07.exe
+D:\study\_07_17_homework\_07_17_2020\_07\obj\Debug\_07.pdb

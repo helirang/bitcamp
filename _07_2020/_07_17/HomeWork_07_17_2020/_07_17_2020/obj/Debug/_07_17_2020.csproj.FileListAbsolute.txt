@@ -1,0 +1,9 @@
+D:\study\_07_17\_07_17_2020\_07_17_2020\bin\Debug\_07_17_2020.exe.config
+D:\study\_07_17\_07_17_2020\_07_17_2020\bin\Debug\_07_17_2020.exe
+D:\study\_07_17\_07_17_2020\_07_17_2020\bin\Debug\_07_17_2020.pdb
+D:\study\_07_17\_07_17_2020\_07_17_2020\obj\Debug\_07_17_2020.csprojAssemblyReference.cache
+D:\study\_07_17\_07_17_2020\_07_17_2020\obj\Debug\_07_17_2020.Properties.Resources.resources
+D:\study\_07_17\_07_17_2020\_07_17_2020\obj\Debug\_07_17_2020.csproj.GenerateResource.cache
+D:\study\_07_17\_07_17_2020\_07_17_2020\obj\Debug\_07_17_2020.csproj.CoreCompileInputs.cache
+D:\study\_07_17\_07_17_2020\_07_17_2020\obj\Debug\_07_17_2020.exe
+D:\study\_07_17\_07_17_2020\_07_17_2020\obj\Debug\_07_17_2020.pdb
