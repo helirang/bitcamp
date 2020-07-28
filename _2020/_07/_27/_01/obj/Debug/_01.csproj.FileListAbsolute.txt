@@ -1,0 +1,9 @@
+D:\Bit\HomeWork\_27\_27_homework\_01\bin\Debug\_01.exe.config
+D:\Bit\HomeWork\_27\_27_homework\_01\bin\Debug\_01.exe
+D:\Bit\HomeWork\_27\_27_homework\_01\bin\Debug\_01.pdb
+D:\Bit\HomeWork\_27\_27_homework\_01\obj\Debug\_01.Properties.Resources.resources
+D:\Bit\HomeWork\_27\_27_homework\_01\obj\Debug\_01.csproj.GenerateResource.cache
+D:\Bit\HomeWork\_27\_27_homework\_01\obj\Debug\_01.csproj.CoreCompileInputs.cache
+D:\Bit\HomeWork\_27\_27_homework\_01\obj\Debug\_01.exe
+D:\Bit\HomeWork\_27\_27_homework\_01\obj\Debug\_01.pdb
+D:\Bit\HomeWork\_27\_27_homework\_01\obj\Debug\_01.Form1.resources

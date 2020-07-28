@@ -1,0 +1,10 @@
+D:\Bit\_23\_23\bin\Debug\_23.exe.config
+D:\Bit\_23\_23\bin\Debug\_23.exe
+D:\Bit\_23\_23\bin\Debug\_23.pdb
+D:\Bit\_23\_23\obj\Debug\_23.csprojAssemblyReference.cache
+D:\Bit\_23\_23\obj\Debug\_23.Properties.Resources.resources
+D:\Bit\_23\_23\obj\Debug\_23.csproj.GenerateResource.cache
+D:\Bit\_23\_23\obj\Debug\_23.csproj.CoreCompileInputs.cache
+D:\Bit\_23\_23\obj\Debug\_23.exe
+D:\Bit\_23\_23\obj\Debug\_23.pdb
+D:\Bit\_23\_23\obj\Debug\_23.Form1.resources

@@ -1,0 +1,9 @@
+D:\Bit\HomeWork\_07_24_2020\_omo_2\obj\Debug\_omo_2.csprojAssemblyReference.cache
+D:\Bit\HomeWork\_07_24_2020\_omo_2\obj\Debug\_omo_2.Properties.Resources.resources
+D:\Bit\HomeWork\_07_24_2020\_omo_2\obj\Debug\_omo_2.csproj.GenerateResource.cache
+D:\Bit\HomeWork\_07_24_2020\_omo_2\obj\Debug\_omo_2.csproj.CoreCompileInputs.cache
+D:\Bit\HomeWork\_07_24_2020\_omo_2\bin\Debug\_omo_2.exe.config
+D:\Bit\HomeWork\_07_24_2020\_omo_2\bin\Debug\_omo_2.exe
+D:\Bit\HomeWork\_07_24_2020\_omo_2\bin\Debug\_omo_2.pdb
+D:\Bit\HomeWork\_07_24_2020\_omo_2\obj\Debug\_omo_2.exe
+D:\Bit\HomeWork\_07_24_2020\_omo_2\obj\Debug\_omo_2.pdb
