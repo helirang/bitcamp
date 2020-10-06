@@ -1,0 +1,38 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <conio.h>
+
+int main(int argc, char** argv)
+{
+	while (1)
+	{
+		printf("1. 주소 입력\n");
+		printf("2. 주소 검색\n");
+		printf("3. 주소 수정\n");
+		printf("4. 주소 삭제\n");
+		printf("5. 주소 종료\n");
+		/*char sel = getchar(); 문자 + 엔터*/
+		//f1을 누르면 설명을 알려줌
+
+		char sel = _getch(); // 문자만
+		printf("\n %c번 선택하셨습니다 \n", sel);
+		if (sel == '5')
+		{
+			printf(" 안녕히 계세요 ^^\n");
+			break; // 가장 가까이 있는 반복문을 탈출하라
+		}
+		else 
+		{
+			printf("업무를 선택하셨습니다\n");
+			printf("****************\n\n");
+		}
+		printf("업무를 선택하셨습니다\n");
+		printf("****************\n\n");
+
+		// 키보드와 콘솔을 연결해주는 버퍼, getchar() -> 버퍼에 저장.
+		// _getch()는 버퍼를 거치지 않는다. 
+	}
+	// ctrl k + f는 코드 정렬
+	return 0;
+}

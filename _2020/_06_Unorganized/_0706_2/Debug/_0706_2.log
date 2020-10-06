@@ -1,0 +1,13 @@
+﻿  Add.cpp
+  Calc.cpp
+  Div.cpp
+  Mul.cpp
+  Sub.cpp
+  main.cpp
+C:\Users\Admin\source\repos\_0706\_0706_2\main.cpp(11,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  코드를 생성하고 있습니다...
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: virtual void __thiscall Add::setValue(int,int)" (?setValue@Add@@UAEXHH@Z)
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: virtual void __thiscall Div::setValue(int,int)" (?setValue@Div@@UAEXHH@Z)
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: virtual void __thiscall Mul::setValue(int,int)" (?setValue@Mul@@UAEXHH@Z)
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: virtual void __thiscall Sub::setValue(int,int)" (?setValue@Sub@@UAEXHH@Z)
+C:\Users\Admin\source\repos\_0706\Debug\_0706_2.exe : fatal error LNK1120: 4개의 확인할 수 없는 외부 참조입니다.
