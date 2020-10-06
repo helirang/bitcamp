@@ -1,0 +1,7 @@
+요약
+INSERT INTO 테이블명(필드)
+VALUES(필드에 따라 삽입할 데이터);
+//INSERT시 프라이머리 키 중복오류도 생각해야한다.
+
+COMMIT; 해야 데이터가 SQL파일에서 변경된다 
+ROLLBACK; 처음 불러온 COMMIT 상태로 SQL 파일을 되돌린다.(재호출)
