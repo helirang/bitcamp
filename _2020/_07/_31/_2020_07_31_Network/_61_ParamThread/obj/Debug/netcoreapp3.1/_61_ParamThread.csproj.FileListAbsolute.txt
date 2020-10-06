@@ -1,0 +1,12 @@
+D:\Share\CSharpLecture\lecture\_2020_07_31\_2020_07_31_Network\_61_ParamThread\bin\Debug\netcoreapp3.1\_61_ParamThread.exe
+D:\Share\CSharpLecture\lecture\_2020_07_31\_2020_07_31_Network\_61_ParamThread\bin\Debug\netcoreapp3.1\_61_ParamThread.deps.json
+D:\Share\CSharpLecture\lecture\_2020_07_31\_2020_07_31_Network\_61_ParamThread\bin\Debug\netcoreapp3.1\_61_ParamThread.runtimeconfig.json
+D:\Share\CSharpLecture\lecture\_2020_07_31\_2020_07_31_Network\_61_ParamThread\bin\Debug\netcoreapp3.1\_61_ParamThread.runtimeconfig.dev.json
+D:\Share\CSharpLecture\lecture\_2020_07_31\_2020_07_31_Network\_61_ParamThread\bin\Debug\netcoreapp3.1\_61_ParamThread.dll
+D:\Share\CSharpLecture\lecture\_2020_07_31\_2020_07_31_Network\_61_ParamThread\bin\Debug\netcoreapp3.1\_61_ParamThread.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_31\_2020_07_31_Network\_61_ParamThread\obj\Debug\netcoreapp3.1\_61_ParamThread.AssemblyInfoInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_31\_2020_07_31_Network\_61_ParamThread\obj\Debug\netcoreapp3.1\_61_ParamThread.AssemblyInfo.cs
+D:\Share\CSharpLecture\lecture\_2020_07_31\_2020_07_31_Network\_61_ParamThread\obj\Debug\netcoreapp3.1\_61_ParamThread.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_31\_2020_07_31_Network\_61_ParamThread\obj\Debug\netcoreapp3.1\_61_ParamThread.dll
+D:\Share\CSharpLecture\lecture\_2020_07_31\_2020_07_31_Network\_61_ParamThread\obj\Debug\netcoreapp3.1\_61_ParamThread.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_31\_2020_07_31_Network\_61_ParamThread\obj\Debug\netcoreapp3.1\_61_ParamThread.genruntimeconfig.cache

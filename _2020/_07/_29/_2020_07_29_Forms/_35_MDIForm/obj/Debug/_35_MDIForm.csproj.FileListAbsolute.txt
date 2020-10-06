@@ -1,0 +1,10 @@
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_35_MDIForm\bin\Debug\_35_MDIForm.exe.config
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_35_MDIForm\bin\Debug\_35_MDIForm.exe
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_35_MDIForm\bin\Debug\_35_MDIForm.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_35_MDIForm\obj\Debug\_35_MDIForm.ChildForm.resources
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_35_MDIForm\obj\Debug\_35_MDIForm.Form1.resources
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_35_MDIForm\obj\Debug\_35_MDIForm.Properties.Resources.resources
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_35_MDIForm\obj\Debug\_35_MDIForm.csproj.GenerateResource.cache
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_35_MDIForm\obj\Debug\_35_MDIForm.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_35_MDIForm\obj\Debug\_35_MDIForm.exe
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_35_MDIForm\obj\Debug\_35_MDIForm.pdb

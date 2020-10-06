@@ -1,0 +1,17 @@
+D:\Share\CExe\csExe\8장\Example_8-28-35_UDP를 이용한 화면 전송 프로그램_2\ScreenTransferProgram\bin\Debug\ScreenTransferProgram.exe
+D:\Share\CExe\csExe\8장\Example_8-28-35_UDP를 이용한 화면 전송 프로그램_2\ScreenTransferProgram\bin\Debug\ScreenTransferProgram.pdb
+D:\Share\CExe\csExe\8장\Example_8-28-35_UDP를 이용한 화면 전송 프로그램_2\ScreenTransferProgram\obj\x86\Debug\ScreenTransferProgram.DisplayScreen.resources
+D:\Share\CExe\csExe\8장\Example_8-28-35_UDP를 이용한 화면 전송 프로그램_2\ScreenTransferProgram\obj\x86\Debug\ScreenTransferProgram.Properties.Resources.resources
+D:\Share\CExe\csExe\8장\Example_8-28-35_UDP를 이용한 화면 전송 프로그램_2\ScreenTransferProgram\obj\x86\Debug\ScreenTransferProgram_2.csproj.GenerateResource.cache
+D:\Share\CExe\csExe\8장\Example_8-28-35_UDP를 이용한 화면 전송 프로그램_2\ScreenTransferProgram\obj\x86\Debug\ScreenTransferProgram_2.csproj.CoreCompileInputs.cache
+D:\Share\CExe\csExe\8장\Example_8-28-35_UDP를 이용한 화면 전송 프로그램_2\ScreenTransferProgram\obj\x86\Debug\ScreenTransferProgram.exe
+D:\Share\CExe\csExe\8장\Example_8-28-35_UDP를 이용한 화면 전송 프로그램_2\ScreenTransferProgram\obj\x86\Debug\ScreenTransferProgram.pdb
+D:\Share\CSharpLecture\lecture\_2020_08_04\ScreenTransferProgram\bin\Debug\ScreenTransferProgram.exe
+D:\Share\CSharpLecture\lecture\_2020_08_04\ScreenTransferProgram\bin\Debug\ScreenTransferProgram.pdb
+D:\Share\CSharpLecture\lecture\_2020_08_04\ScreenTransferProgram\obj\x86\Debug\ScreenTransferProgram_2.csprojAssemblyReference.cache
+D:\Share\CSharpLecture\lecture\_2020_08_04\ScreenTransferProgram\obj\x86\Debug\ScreenTransferProgram.DisplayScreen.resources
+D:\Share\CSharpLecture\lecture\_2020_08_04\ScreenTransferProgram\obj\x86\Debug\ScreenTransferProgram.Properties.Resources.resources
+D:\Share\CSharpLecture\lecture\_2020_08_04\ScreenTransferProgram\obj\x86\Debug\ScreenTransferProgram_2.csproj.GenerateResource.cache
+D:\Share\CSharpLecture\lecture\_2020_08_04\ScreenTransferProgram\obj\x86\Debug\ScreenTransferProgram_2.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_08_04\ScreenTransferProgram\obj\x86\Debug\ScreenTransferProgram.exe
+D:\Share\CSharpLecture\lecture\_2020_08_04\ScreenTransferProgram\obj\x86\Debug\ScreenTransferProgram.pdb

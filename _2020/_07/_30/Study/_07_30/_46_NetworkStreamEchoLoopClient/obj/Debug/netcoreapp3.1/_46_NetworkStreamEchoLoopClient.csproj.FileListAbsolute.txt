@@ -1,0 +1,13 @@
+D:\study\_07_30\Study\_07_30\_46_NetworkStreamEchoLoopClient\bin\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.exe
+D:\study\_07_30\Study\_07_30\_46_NetworkStreamEchoLoopClient\bin\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.deps.json
+D:\study\_07_30\Study\_07_30\_46_NetworkStreamEchoLoopClient\bin\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.runtimeconfig.json
+D:\study\_07_30\Study\_07_30\_46_NetworkStreamEchoLoopClient\bin\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.runtimeconfig.dev.json
+D:\study\_07_30\Study\_07_30\_46_NetworkStreamEchoLoopClient\bin\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.dll
+D:\study\_07_30\Study\_07_30\_46_NetworkStreamEchoLoopClient\bin\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.pdb
+D:\study\_07_30\Study\_07_30\_46_NetworkStreamEchoLoopClient\obj\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.AssemblyInfoInputs.cache
+D:\study\_07_30\Study\_07_30\_46_NetworkStreamEchoLoopClient\obj\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.AssemblyInfo.cs
+D:\study\_07_30\Study\_07_30\_46_NetworkStreamEchoLoopClient\obj\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.csproj.CoreCompileInputs.cache
+D:\study\_07_30\Study\_07_30\_46_NetworkStreamEchoLoopClient\obj\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.dll
+D:\study\_07_30\Study\_07_30\_46_NetworkStreamEchoLoopClient\obj\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.pdb
+D:\study\_07_30\Study\_07_30\_46_NetworkStreamEchoLoopClient\obj\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.genruntimeconfig.cache
+D:\study\_07_30\Study\_07_30\_46_NetworkStreamEchoLoopClient\obj\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.csprojAssemblyReference.cache

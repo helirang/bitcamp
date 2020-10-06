@@ -1,0 +1,7 @@
+야구게임
+1) server는 중복되지 않는 임의의 난수(0 ~ 9) 3개 생성
+2) client는 server에 숫자 3개를 전송한다
+3) server는 판정을 내린다
+4) server는 client에 '1s 1b'을 전송한다
+...
+5) 정답을 맞추면 'strike out'을 전송/수신한다

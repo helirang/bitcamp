@@ -1,0 +1,6 @@
+D:\study\_08_04\_2020_08_04\UDPServerConsole\bin\Debug\UDPServerConsole.exe
+D:\study\_08_04\_2020_08_04\UDPServerConsole\bin\Debug\UDPServerConsole.pdb
+D:\study\_08_04\_2020_08_04\UDPServerConsole\obj\x86\Debug\UDPServerConsole.csprojAssemblyReference.cache
+D:\study\_08_04\_2020_08_04\UDPServerConsole\obj\x86\Debug\UDPServerConsole.csproj.CoreCompileInputs.cache
+D:\study\_08_04\_2020_08_04\UDPServerConsole\obj\x86\Debug\UDPServerConsole.exe
+D:\study\_08_04\_2020_08_04\UDPServerConsole\obj\x86\Debug\UDPServerConsole.pdb

@@ -1,0 +1,12 @@
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.exe
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.deps.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.runtimeconfig.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.runtimeconfig.dev.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.dll
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.AssemblyInfoInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.AssemblyInfo.cs
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.dll
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.genruntimeconfig.cache

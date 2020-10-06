@@ -1,0 +1,10 @@
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_34_ModelessForm\bin\Debug\_34_ModelessForm.exe.config
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_34_ModelessForm\bin\Debug\_34_ModelessForm.exe
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_34_ModelessForm\bin\Debug\_34_ModelessForm.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_34_ModelessForm\obj\Debug\_34_ModelessForm.Form1.resources
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_34_ModelessForm\obj\Debug\_34_ModelessForm.MyForm.resources
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_34_ModelessForm\obj\Debug\_34_ModelessForm.Properties.Resources.resources
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_34_ModelessForm\obj\Debug\_34_ModelessForm.csproj.GenerateResource.cache
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_34_ModelessForm\obj\Debug\_34_ModelessForm.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_34_ModelessForm\obj\Debug\_34_ModelessForm.exe
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_34_ModelessForm\obj\Debug\_34_ModelessForm.pdb

@@ -1,0 +1,10 @@
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_40_Serialize\bin\Debug\_40_Serialize.exe.config
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_40_Serialize\bin\Debug\_40_Serialize.exe
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_40_Serialize\bin\Debug\_40_Serialize.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_40_Serialize\obj\Debug\_40_Serialize.csprojAssemblyReference.cache
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_40_Serialize\obj\Debug\_40_Serialize.Form1.resources
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_40_Serialize\obj\Debug\_40_Serialize.Properties.Resources.resources
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_40_Serialize\obj\Debug\_40_Serialize.csproj.GenerateResource.cache
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_40_Serialize\obj\Debug\_40_Serialize.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_40_Serialize\obj\Debug\_40_Serialize.exe
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_40_Serialize\obj\Debug\_40_Serialize.pdb

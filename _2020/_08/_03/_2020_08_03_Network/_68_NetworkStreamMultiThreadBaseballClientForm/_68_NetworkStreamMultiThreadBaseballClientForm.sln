@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_68_NetworkStreamMultiThreadBaseballClientForm", "_68_NetworkStreamMultiThreadBaseballClientForm.csproj", "{0B2435B7-34D3-4C8F-9684-F4A796CF2EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2435B7-34D3-4C8F-9684-F4A796CF2EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2435B7-34D3-4C8F-9684-F4A796CF2EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2435B7-34D3-4C8F-9684-F4A796CF2EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2435B7-34D3-4C8F-9684-F4A796CF2EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F66A776-6C31-4986-8CA3-7E01216D12BF}
+	EndGlobalSection
+EndGlobal

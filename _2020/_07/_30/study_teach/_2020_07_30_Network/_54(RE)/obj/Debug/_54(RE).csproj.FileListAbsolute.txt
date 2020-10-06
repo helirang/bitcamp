@@ -1,0 +1,9 @@
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54(RE)\bin\Debug\_54(RE).exe.config
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54(RE)\bin\Debug\_54(RE).exe
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54(RE)\bin\Debug\_54(RE).pdb
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54(RE)\obj\Debug\_54(RE).csprojAssemblyReference.cache
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54(RE)\obj\Debug\_54_RE_.Properties.Resources.resources
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54(RE)\obj\Debug\_54(RE).csproj.GenerateResource.cache
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54(RE)\obj\Debug\_54(RE).csproj.CoreCompileInputs.cache
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54(RE)\obj\Debug\_54(RE).exe
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54(RE)\obj\Debug\_54(RE).pdb

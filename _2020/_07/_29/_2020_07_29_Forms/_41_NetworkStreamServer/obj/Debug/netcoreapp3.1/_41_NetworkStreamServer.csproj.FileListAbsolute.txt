@@ -1,0 +1,13 @@
+D:\study\_07_29\_2020_07_29_Forms\_41_NetworkStreamServer\bin\Debug\netcoreapp3.1\_41_NetworkStreamServer.exe
+D:\study\_07_29\_2020_07_29_Forms\_41_NetworkStreamServer\bin\Debug\netcoreapp3.1\_41_NetworkStreamServer.deps.json
+D:\study\_07_29\_2020_07_29_Forms\_41_NetworkStreamServer\bin\Debug\netcoreapp3.1\_41_NetworkStreamServer.runtimeconfig.json
+D:\study\_07_29\_2020_07_29_Forms\_41_NetworkStreamServer\bin\Debug\netcoreapp3.1\_41_NetworkStreamServer.runtimeconfig.dev.json
+D:\study\_07_29\_2020_07_29_Forms\_41_NetworkStreamServer\bin\Debug\netcoreapp3.1\_41_NetworkStreamServer.dll
+D:\study\_07_29\_2020_07_29_Forms\_41_NetworkStreamServer\bin\Debug\netcoreapp3.1\_41_NetworkStreamServer.pdb
+D:\study\_07_29\_2020_07_29_Forms\_41_NetworkStreamServer\obj\Debug\netcoreapp3.1\_41_NetworkStreamServer.csprojAssemblyReference.cache
+D:\study\_07_29\_2020_07_29_Forms\_41_NetworkStreamServer\obj\Debug\netcoreapp3.1\_41_NetworkStreamServer.AssemblyInfoInputs.cache
+D:\study\_07_29\_2020_07_29_Forms\_41_NetworkStreamServer\obj\Debug\netcoreapp3.1\_41_NetworkStreamServer.AssemblyInfo.cs
+D:\study\_07_29\_2020_07_29_Forms\_41_NetworkStreamServer\obj\Debug\netcoreapp3.1\_41_NetworkStreamServer.csproj.CoreCompileInputs.cache
+D:\study\_07_29\_2020_07_29_Forms\_41_NetworkStreamServer\obj\Debug\netcoreapp3.1\_41_NetworkStreamServer.dll
+D:\study\_07_29\_2020_07_29_Forms\_41_NetworkStreamServer\obj\Debug\netcoreapp3.1\_41_NetworkStreamServer.pdb
+D:\study\_07_29\_2020_07_29_Forms\_41_NetworkStreamServer\obj\Debug\netcoreapp3.1\_41_NetworkStreamServer.genruntimeconfig.cache

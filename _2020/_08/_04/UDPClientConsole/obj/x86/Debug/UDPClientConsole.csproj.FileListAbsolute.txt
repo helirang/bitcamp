@@ -1,0 +1,12 @@
+D:\Writing a book\Real C#\Exercise\UDPClientConsole\UDPClientConsole\bin\Debug\UDPClientConsole.exe
+D:\Writing a book\Real C#\Exercise\UDPClientConsole\UDPClientConsole\bin\Debug\UDPClientConsole.pdb
+D:\Writing a book\Real C#\Exercise\UDPClientConsole\UDPClientConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Writing a book\Real C#\Exercise\UDPClientConsole\UDPClientConsole\obj\x86\Debug\UDPClientConsole.exe
+D:\Writing a book\Real C#\Exercise\UDPClientConsole\UDPClientConsole\obj\x86\Debug\UDPClientConsole.pdb
+D:\Part-time job\Writing a book\Real C#\완성본\2015.10.21\Source code\8장\Example_8_20_Console 기반 UDP 클라이언트 만들기\UDPClientConsole\obj\x86\Debug\UDPClientConsole.pdb
+D:\study\_08_04\_2020_08_04\UDPClientConsole\bin\Debug\UDPClientConsole.exe
+D:\study\_08_04\_2020_08_04\UDPClientConsole\bin\Debug\UDPClientConsole.pdb
+D:\study\_08_04\_2020_08_04\UDPClientConsole\obj\x86\Debug\UDPClientConsole.csprojAssemblyReference.cache
+D:\study\_08_04\_2020_08_04\UDPClientConsole\obj\x86\Debug\UDPClientConsole.csproj.CoreCompileInputs.cache
+D:\study\_08_04\_2020_08_04\UDPClientConsole\obj\x86\Debug\UDPClientConsole.exe
+D:\study\_08_04\_2020_08_04\UDPClientConsole\obj\x86\Debug\UDPClientConsole.pdb

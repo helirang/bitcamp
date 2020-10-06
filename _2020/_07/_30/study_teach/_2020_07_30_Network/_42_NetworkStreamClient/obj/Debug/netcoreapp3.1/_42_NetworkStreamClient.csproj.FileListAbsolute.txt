@@ -1,0 +1,13 @@
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_42_NetworkStreamClient\bin\Debug\netcoreapp3.1\_42_NetworkStreamClient.exe
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_42_NetworkStreamClient\bin\Debug\netcoreapp3.1\_42_NetworkStreamClient.deps.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_42_NetworkStreamClient\bin\Debug\netcoreapp3.1\_42_NetworkStreamClient.runtimeconfig.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_42_NetworkStreamClient\bin\Debug\netcoreapp3.1\_42_NetworkStreamClient.runtimeconfig.dev.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_42_NetworkStreamClient\bin\Debug\netcoreapp3.1\_42_NetworkStreamClient.dll
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_42_NetworkStreamClient\bin\Debug\netcoreapp3.1\_42_NetworkStreamClient.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_42_NetworkStreamClient\obj\Debug\netcoreapp3.1\_42_NetworkStreamClient.csprojAssemblyReference.cache
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_42_NetworkStreamClient\obj\Debug\netcoreapp3.1\_42_NetworkStreamClient.AssemblyInfoInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_42_NetworkStreamClient\obj\Debug\netcoreapp3.1\_42_NetworkStreamClient.AssemblyInfo.cs
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_42_NetworkStreamClient\obj\Debug\netcoreapp3.1\_42_NetworkStreamClient.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_42_NetworkStreamClient\obj\Debug\netcoreapp3.1\_42_NetworkStreamClient.dll
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_42_NetworkStreamClient\obj\Debug\netcoreapp3.1\_42_NetworkStreamClient.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_42_NetworkStreamClient\obj\Debug\netcoreapp3.1\_42_NetworkStreamClient.genruntimeconfig.cache

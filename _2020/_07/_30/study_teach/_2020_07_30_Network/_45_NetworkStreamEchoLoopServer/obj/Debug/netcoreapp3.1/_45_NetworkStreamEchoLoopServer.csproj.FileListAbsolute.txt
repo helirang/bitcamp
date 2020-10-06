@@ -1,0 +1,12 @@
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_45_NetworkStreamEchoLoopServer\bin\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.exe
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_45_NetworkStreamEchoLoopServer\bin\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.deps.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_45_NetworkStreamEchoLoopServer\bin\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.runtimeconfig.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_45_NetworkStreamEchoLoopServer\bin\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.runtimeconfig.dev.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_45_NetworkStreamEchoLoopServer\bin\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.dll
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_45_NetworkStreamEchoLoopServer\bin\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_45_NetworkStreamEchoLoopServer\obj\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.AssemblyInfoInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_45_NetworkStreamEchoLoopServer\obj\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.AssemblyInfo.cs
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_45_NetworkStreamEchoLoopServer\obj\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_45_NetworkStreamEchoLoopServer\obj\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.dll
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_45_NetworkStreamEchoLoopServer\obj\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_45_NetworkStreamEchoLoopServer\obj\Debug\netcoreapp3.1\_45_NetworkStreamEchoLoopServer.genruntimeconfig.cache

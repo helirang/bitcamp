@@ -1,0 +1,9 @@
+D:\study\_08_03\_2020_08_03_Network\ev_02_cli\bin\Debug\ev_02_cli.exe.config
+D:\study\_08_03\_2020_08_03_Network\ev_02_cli\bin\Debug\ev_02_cli.exe
+D:\study\_08_03\_2020_08_03_Network\ev_02_cli\bin\Debug\ev_02_cli.pdb
+D:\study\_08_03\_2020_08_03_Network\ev_02_cli\obj\Debug\ev_02_cli.Properties.Resources.resources
+D:\study\_08_03\_2020_08_03_Network\ev_02_cli\obj\Debug\ev_02_cli.csproj.GenerateResource.cache
+D:\study\_08_03\_2020_08_03_Network\ev_02_cli\obj\Debug\ev_02_cli.csproj.CoreCompileInputs.cache
+D:\study\_08_03\_2020_08_03_Network\ev_02_cli\obj\Debug\ev_02_cli.exe
+D:\study\_08_03\_2020_08_03_Network\ev_02_cli\obj\Debug\ev_02_cli.pdb
+D:\study\_08_03\_2020_08_03_Network\ev_02_cli\obj\Debug\ev_02_cli.csprojAssemblyReference.cache

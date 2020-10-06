@@ -1,0 +1,9 @@
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_16\_14_RunThreadImage\bin\Debug\_14_RunThreadImage.exe
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_16\_14_RunThreadImage\bin\Debug\_14_RunThreadImage.pdb
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_16\_14_RunThreadImage\obj\Debug\_14_RunThreadImage.csprojAssemblyReference.cache
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_16\_14_RunThreadImage\obj\Debug\_14_RunThreadImage.Form1.resources
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_16\_14_RunThreadImage\obj\Debug\_14_RunThreadImage.Properties.Resources.resources
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_16\_14_RunThreadImage\obj\Debug\_14_RunThreadImage.csproj.GenerateResource.cache
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_16\_14_RunThreadImage\obj\Debug\_14_RunThreadImage.csproj.CoreCompileInputs.cache
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_16\_14_RunThreadImage\obj\Debug\_14_RunThreadImage.exe
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_16\_14_RunThreadImage\obj\Debug\_14_RunThreadImage.pdb

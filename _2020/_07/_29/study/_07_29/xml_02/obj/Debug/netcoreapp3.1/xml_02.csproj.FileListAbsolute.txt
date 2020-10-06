@@ -1,0 +1,12 @@
+D:\study\_07_29\study\_07_29\xml_02\bin\Debug\netcoreapp3.1\xml_02.exe
+D:\study\_07_29\study\_07_29\xml_02\bin\Debug\netcoreapp3.1\xml_02.deps.json
+D:\study\_07_29\study\_07_29\xml_02\bin\Debug\netcoreapp3.1\xml_02.runtimeconfig.json
+D:\study\_07_29\study\_07_29\xml_02\bin\Debug\netcoreapp3.1\xml_02.runtimeconfig.dev.json
+D:\study\_07_29\study\_07_29\xml_02\bin\Debug\netcoreapp3.1\xml_02.dll
+D:\study\_07_29\study\_07_29\xml_02\bin\Debug\netcoreapp3.1\xml_02.pdb
+D:\study\_07_29\study\_07_29\xml_02\obj\Debug\netcoreapp3.1\xml_02.AssemblyInfoInputs.cache
+D:\study\_07_29\study\_07_29\xml_02\obj\Debug\netcoreapp3.1\xml_02.AssemblyInfo.cs
+D:\study\_07_29\study\_07_29\xml_02\obj\Debug\netcoreapp3.1\xml_02.csproj.CoreCompileInputs.cache
+D:\study\_07_29\study\_07_29\xml_02\obj\Debug\netcoreapp3.1\xml_02.dll
+D:\study\_07_29\study\_07_29\xml_02\obj\Debug\netcoreapp3.1\xml_02.pdb
+D:\study\_07_29\study\_07_29\xml_02\obj\Debug\netcoreapp3.1\xml_02.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.exe
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.deps.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.runtimeconfig.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.runtimeconfig.dev.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.dll
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.AssemblyInfoInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.AssemblyInfo.cs
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.dll
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.genruntimeconfig.cache

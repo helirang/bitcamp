@@ -1,0 +1,12 @@
+D:\study\_07_30\Study\_07_30\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.exe
+D:\study\_07_30\Study\_07_30\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.deps.json
+D:\study\_07_30\Study\_07_30\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.runtimeconfig.json
+D:\study\_07_30\Study\_07_30\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.runtimeconfig.dev.json
+D:\study\_07_30\Study\_07_30\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.dll
+D:\study\_07_30\Study\_07_30\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.pdb
+D:\study\_07_30\Study\_07_30\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.AssemblyInfoInputs.cache
+D:\study\_07_30\Study\_07_30\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.AssemblyInfo.cs
+D:\study\_07_30\Study\_07_30\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.csproj.CoreCompileInputs.cache
+D:\study\_07_30\Study\_07_30\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.dll
+D:\study\_07_30\Study\_07_30\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.pdb
+D:\study\_07_30\Study\_07_30\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.genruntimeconfig.cache

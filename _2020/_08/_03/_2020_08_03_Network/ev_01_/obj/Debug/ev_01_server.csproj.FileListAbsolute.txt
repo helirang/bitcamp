@@ -1,0 +1,9 @@
+D:\study\_08_03\_2020_08_03_Network\ev_01_\bin\Debug\ev_01_.exe.config
+D:\study\_08_03\_2020_08_03_Network\ev_01_\bin\Debug\ev_01_.exe
+D:\study\_08_03\_2020_08_03_Network\ev_01_\bin\Debug\ev_01_.pdb
+D:\study\_08_03\_2020_08_03_Network\ev_01_\obj\Debug\ev_01_server.csprojAssemblyReference.cache
+D:\study\_08_03\_2020_08_03_Network\ev_01_\obj\Debug\ev_01_.Properties.Resources.resources
+D:\study\_08_03\_2020_08_03_Network\ev_01_\obj\Debug\ev_01_server.csproj.GenerateResource.cache
+D:\study\_08_03\_2020_08_03_Network\ev_01_\obj\Debug\ev_01_server.csproj.CoreCompileInputs.cache
+D:\study\_08_03\_2020_08_03_Network\ev_01_\obj\Debug\ev_01_.exe
+D:\study\_08_03\_2020_08_03_Network\ev_01_\obj\Debug\ev_01_.pdb

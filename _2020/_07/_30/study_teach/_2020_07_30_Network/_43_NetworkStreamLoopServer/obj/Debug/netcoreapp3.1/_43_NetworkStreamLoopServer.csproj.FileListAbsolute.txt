@@ -1,0 +1,13 @@
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_43_NetworkStreamLoopServer\bin\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.exe
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_43_NetworkStreamLoopServer\bin\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.deps.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_43_NetworkStreamLoopServer\bin\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.runtimeconfig.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_43_NetworkStreamLoopServer\bin\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.runtimeconfig.dev.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_43_NetworkStreamLoopServer\bin\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.dll
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_43_NetworkStreamLoopServer\bin\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_43_NetworkStreamLoopServer\obj\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.csprojAssemblyReference.cache
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_43_NetworkStreamLoopServer\obj\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.AssemblyInfoInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_43_NetworkStreamLoopServer\obj\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.AssemblyInfo.cs
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_43_NetworkStreamLoopServer\obj\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_43_NetworkStreamLoopServer\obj\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.dll
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_43_NetworkStreamLoopServer\obj\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_43_NetworkStreamLoopServer\obj\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.genruntimeconfig.cache

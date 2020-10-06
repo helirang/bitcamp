@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_45_NetworkStreamEchoLoopServer/1.0.0": {
+        "runtime": {
+          "_45_NetworkStreamEchoLoopServer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_45_NetworkStreamEchoLoopServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

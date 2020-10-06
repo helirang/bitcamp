@@ -1,0 +1,11 @@
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_32_ModalForm\bin\Debug\_32_ModalForm.exe.config
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_32_ModalForm\bin\Debug\_32_ModalForm.exe
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_32_ModalForm\bin\Debug\_32_ModalForm.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_32_ModalForm\obj\Debug\_32_ModalForm.csprojAssemblyReference.cache
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_32_ModalForm\obj\Debug\_32_ModalForm.Form1.resources
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_32_ModalForm\obj\Debug\_32_ModalForm.MyForm.resources
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_32_ModalForm\obj\Debug\_32_ModalForm.Properties.Resources.resources
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_32_ModalForm\obj\Debug\_32_ModalForm.csproj.GenerateResource.cache
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_32_ModalForm\obj\Debug\_32_ModalForm.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_32_ModalForm\obj\Debug\_32_ModalForm.exe
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_32_ModalForm\obj\Debug\_32_ModalForm.pdb

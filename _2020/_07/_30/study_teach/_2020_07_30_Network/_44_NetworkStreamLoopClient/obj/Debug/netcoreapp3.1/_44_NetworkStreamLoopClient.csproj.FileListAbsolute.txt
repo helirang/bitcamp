@@ -1,0 +1,13 @@
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_44_NetworkStreamLoopClient\bin\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.exe
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_44_NetworkStreamLoopClient\bin\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.deps.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_44_NetworkStreamLoopClient\bin\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.runtimeconfig.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_44_NetworkStreamLoopClient\bin\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.runtimeconfig.dev.json
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_44_NetworkStreamLoopClient\bin\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.dll
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_44_NetworkStreamLoopClient\bin\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_44_NetworkStreamLoopClient\obj\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.csprojAssemblyReference.cache
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_44_NetworkStreamLoopClient\obj\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.AssemblyInfoInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_44_NetworkStreamLoopClient\obj\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.AssemblyInfo.cs
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_44_NetworkStreamLoopClient\obj\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_44_NetworkStreamLoopClient\obj\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.dll
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_44_NetworkStreamLoopClient\obj\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_30\_2020_07_30_Network\_44_NetworkStreamLoopClient\obj\Debug\netcoreapp3.1\_44_NetworkStreamLoopClient.genruntimeconfig.cache

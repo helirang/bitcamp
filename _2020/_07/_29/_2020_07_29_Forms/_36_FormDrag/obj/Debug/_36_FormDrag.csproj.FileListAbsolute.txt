@@ -1,0 +1,9 @@
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_36_FormDrag\bin\Debug\_36_FormDrag.exe.config
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_36_FormDrag\bin\Debug\_36_FormDrag.exe
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_36_FormDrag\bin\Debug\_36_FormDrag.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_36_FormDrag\obj\Debug\_36_FormDrag.Form1.resources
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_36_FormDrag\obj\Debug\_36_FormDrag.Properties.Resources.resources
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_36_FormDrag\obj\Debug\_36_FormDrag.csproj.GenerateResource.cache
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_36_FormDrag\obj\Debug\_36_FormDrag.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_36_FormDrag\obj\Debug\_36_FormDrag.exe
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_36_FormDrag\obj\Debug\_36_FormDrag.pdb

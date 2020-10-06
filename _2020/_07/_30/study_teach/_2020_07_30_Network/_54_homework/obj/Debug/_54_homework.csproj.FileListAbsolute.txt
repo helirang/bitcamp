@@ -1,0 +1,9 @@
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54_homework\bin\Debug\_54_homework.exe.config
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54_homework\bin\Debug\_54_homework.exe
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54_homework\bin\Debug\_54_homework.pdb
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54_homework\obj\Debug\_54_homework.csprojAssemblyReference.cache
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54_homework\obj\Debug\_54_homework.Properties.Resources.resources
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54_homework\obj\Debug\_54_homework.csproj.GenerateResource.cache
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54_homework\obj\Debug\_54_homework.csproj.CoreCompileInputs.cache
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54_homework\obj\Debug\_54_homework.exe
+D:\study\_07_30\study_teach\_2020_07_30_Network\_54_homework\obj\Debug\_54_homework.pdb

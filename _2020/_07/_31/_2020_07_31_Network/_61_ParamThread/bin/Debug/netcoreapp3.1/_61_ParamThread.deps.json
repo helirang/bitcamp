@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_61_ParamThread/1.0.0": {
+        "runtime": {
+          "_61_ParamThread.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_61_ParamThread/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\study\_07_31\_2020_07_31_Network\Param_thrad\bin\Debug\netcoreapp3.1\Param_thrad.exe
+D:\study\_07_31\_2020_07_31_Network\Param_thrad\bin\Debug\netcoreapp3.1\Param_thrad.deps.json
+D:\study\_07_31\_2020_07_31_Network\Param_thrad\bin\Debug\netcoreapp3.1\Param_thrad.runtimeconfig.json
+D:\study\_07_31\_2020_07_31_Network\Param_thrad\bin\Debug\netcoreapp3.1\Param_thrad.runtimeconfig.dev.json
+D:\study\_07_31\_2020_07_31_Network\Param_thrad\bin\Debug\netcoreapp3.1\Param_thrad.dll
+D:\study\_07_31\_2020_07_31_Network\Param_thrad\bin\Debug\netcoreapp3.1\Param_thrad.pdb
+D:\study\_07_31\_2020_07_31_Network\Param_thrad\obj\Debug\netcoreapp3.1\Param_thrad.AssemblyInfoInputs.cache
+D:\study\_07_31\_2020_07_31_Network\Param_thrad\obj\Debug\netcoreapp3.1\Param_thrad.AssemblyInfo.cs
+D:\study\_07_31\_2020_07_31_Network\Param_thrad\obj\Debug\netcoreapp3.1\Param_thrad.csproj.CoreCompileInputs.cache
+D:\study\_07_31\_2020_07_31_Network\Param_thrad\obj\Debug\netcoreapp3.1\Param_thrad.dll
+D:\study\_07_31\_2020_07_31_Network\Param_thrad\obj\Debug\netcoreapp3.1\Param_thrad.pdb
+D:\study\_07_31\_2020_07_31_Network\Param_thrad\obj\Debug\netcoreapp3.1\Param_thrad.genruntimeconfig.cache

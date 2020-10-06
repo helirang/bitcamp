@@ -1,0 +1,13 @@
+D:\study\_07_29\study\_07_29\test_xml\bin\Debug\netcoreapp3.1\xml_01.exe
+D:\study\_07_29\study\_07_29\test_xml\bin\Debug\netcoreapp3.1\xml_01.deps.json
+D:\study\_07_29\study\_07_29\test_xml\bin\Debug\netcoreapp3.1\xml_01.runtimeconfig.json
+D:\study\_07_29\study\_07_29\test_xml\bin\Debug\netcoreapp3.1\xml_01.runtimeconfig.dev.json
+D:\study\_07_29\study\_07_29\test_xml\bin\Debug\netcoreapp3.1\xml_01.dll
+D:\study\_07_29\study\_07_29\test_xml\bin\Debug\netcoreapp3.1\xml_01.pdb
+D:\study\_07_29\study\_07_29\test_xml\obj\Debug\netcoreapp3.1\xml_01.csprojAssemblyReference.cache
+D:\study\_07_29\study\_07_29\test_xml\obj\Debug\netcoreapp3.1\xml_01.AssemblyInfoInputs.cache
+D:\study\_07_29\study\_07_29\test_xml\obj\Debug\netcoreapp3.1\xml_01.AssemblyInfo.cs
+D:\study\_07_29\study\_07_29\test_xml\obj\Debug\netcoreapp3.1\xml_01.csproj.CoreCompileInputs.cache
+D:\study\_07_29\study\_07_29\test_xml\obj\Debug\netcoreapp3.1\xml_01.dll
+D:\study\_07_29\study\_07_29\test_xml\obj\Debug\netcoreapp3.1\xml_01.pdb
+D:\study\_07_29\study\_07_29\test_xml\obj\Debug\netcoreapp3.1\xml_01.genruntimeconfig.cache

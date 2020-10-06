@@ -1,0 +1,9 @@
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_19_NetworkStreamMultiServerFormPacket\bin\Debug\_19_NetworkStreamMultiServerFormPacket.exe
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_19_NetworkStreamMultiServerFormPacket\bin\Debug\_19_NetworkStreamMultiServerFormPacket.pdb
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.csprojAssemblyReference.cache
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.Form1.resources
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.Properties.Resources.resources
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.csproj.GenerateResource.cache
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.csproj.CoreCompileInputs.cache
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.exe
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.pdb

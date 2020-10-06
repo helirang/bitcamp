@@ -1,0 +1,12 @@
+D:\study\_07_30\Study\_07_30\_49\bin\Debug\netcoreapp3.1\_49.exe
+D:\study\_07_30\Study\_07_30\_49\bin\Debug\netcoreapp3.1\_49.deps.json
+D:\study\_07_30\Study\_07_30\_49\bin\Debug\netcoreapp3.1\_49.runtimeconfig.json
+D:\study\_07_30\Study\_07_30\_49\bin\Debug\netcoreapp3.1\_49.runtimeconfig.dev.json
+D:\study\_07_30\Study\_07_30\_49\bin\Debug\netcoreapp3.1\_49.dll
+D:\study\_07_30\Study\_07_30\_49\bin\Debug\netcoreapp3.1\_49.pdb
+D:\study\_07_30\Study\_07_30\_49\obj\Debug\netcoreapp3.1\_49.AssemblyInfoInputs.cache
+D:\study\_07_30\Study\_07_30\_49\obj\Debug\netcoreapp3.1\_49.AssemblyInfo.cs
+D:\study\_07_30\Study\_07_30\_49\obj\Debug\netcoreapp3.1\_49.csproj.CoreCompileInputs.cache
+D:\study\_07_30\Study\_07_30\_49\obj\Debug\netcoreapp3.1\_49.dll
+D:\study\_07_30\Study\_07_30\_49\obj\Debug\netcoreapp3.1\_49.pdb
+D:\study\_07_30\Study\_07_30\_49\obj\Debug\netcoreapp3.1\_49.genruntimeconfig.cache

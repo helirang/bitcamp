@@ -1,0 +1,3 @@
+D:\study\_07_30\study_teach\_2020_07_30_Network\testIP\bin\Debug\netcoreapp3.1\testIP.exe
+D:\study\_07_30\study_teach\_2020_07_30_Network\testIP\obj\Debug\netcoreapp3.1\testIP.AssemblyInfoInputs.cache
+D:\study\_07_30\study_teach\_2020_07_30_Network\testIP\obj\Debug\netcoreapp3.1\testIP.AssemblyInfo.cs

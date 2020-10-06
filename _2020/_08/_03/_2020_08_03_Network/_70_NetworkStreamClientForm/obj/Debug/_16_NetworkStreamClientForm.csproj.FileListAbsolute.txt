@@ -1,0 +1,8 @@
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_16_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.GenerateResource.cache
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+D:\Hd\AR_VR_Lecture\C#\lecture\_2019_08_19\_16_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb

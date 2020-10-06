@@ -1,0 +1,9 @@
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_38_FileStream\bin\Debug\_38_FileStream.exe.config
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_38_FileStream\bin\Debug\_38_FileStream.exe
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_38_FileStream\bin\Debug\_38_FileStream.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_38_FileStream\obj\Debug\_38_FileStream.Form1.resources
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_38_FileStream\obj\Debug\_38_FileStream.Properties.Resources.resources
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_38_FileStream\obj\Debug\_38_FileStream.csproj.GenerateResource.cache
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_38_FileStream\obj\Debug\_38_FileStream.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_38_FileStream\obj\Debug\_38_FileStream.exe
+D:\Share\CSharpLecture\lecture\_2020_07_29\_2020_07_29_Forms\_38_FileStream\obj\Debug\_38_FileStream.pdb
